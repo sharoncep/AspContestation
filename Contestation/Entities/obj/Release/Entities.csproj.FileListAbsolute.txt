@@ -1,0 +1,5 @@
+D:\working folder\Contestation_New\Contestation\Entities\bin\Release\Entities.dll
+D:\working folder\Contestation_New\Contestation\Entities\bin\Release\Entities.pdb
+D:\working folder\Contestation_New\Contestation\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation_New\Contestation\Entities\obj\Release\Entities.dll
+D:\working folder\Contestation_New\Contestation\Entities\obj\Release\Entities.pdb

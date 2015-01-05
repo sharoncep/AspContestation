@@ -1,0 +1,7 @@
+D:\working folder\Contestation_New\Contestation\DAL\bin\Release\DAL.dll
+D:\working folder\Contestation_New\Contestation\DAL\bin\Release\DAL.pdb
+D:\working folder\Contestation_New\Contestation\DAL\bin\Release\Entities.dll
+D:\working folder\Contestation_New\Contestation\DAL\bin\Release\Entities.pdb
+D:\working folder\Contestation_New\Contestation\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation_New\Contestation\DAL\obj\Release\DAL.dll
+D:\working folder\Contestation_New\Contestation\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,25 @@
+D:\working folder\Contestation\BLL\bin\Debug\BLL.dll
+D:\working folder\Contestation\BLL\bin\Debug\BLL.pdb
+D:\working folder\Contestation\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation\BLL\obj\Debug\BLL.dll
+D:\working folder\Contestation\BLL\obj\Debug\BLL.pdb
+D:\working folder\Contestation\BLL\bin\Debug\DAL.dll
+D:\working folder\Contestation\BLL\bin\Debug\DAL.pdb
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\BLL.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\BLL.pdb
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\DAL.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\Entities.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\DAL.pdb
+D:\working folder\Contestation_New\Contestation\BLL\bin\Debug\Entities.pdb
+D:\working folder\Contestation_New\Contestation\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation_New\Contestation\BLL\obj\Debug\BLL.dll
+D:\working folder\Contestation_New\Contestation\BLL\obj\Debug\BLL.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\BLL.dll
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\BLL.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\DAL.dll
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\Entities.dll
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\DAL.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\bin\Debug\Entities.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\obj\Debug\BLL.dll
+D:\Sharon\Personal\Contestation_New\Contestation\BLL\obj\Debug\BLL.pdb

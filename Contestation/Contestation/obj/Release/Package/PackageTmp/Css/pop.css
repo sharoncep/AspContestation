@@ -1,0 +1,133 @@
+
+body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: 'Gafata', sans-serif;
+}
+
+.wrapper
+{
+	margin: 0 auto;
+	position: relative;
+	padding: 0;
+	min-height:250px;
+}
+
+
+.dv_main_search
+{
+	float: left;
+	display: block;
+	background-color: #d5d3d3;
+	padding: 5px 10px;
+	border: solid 1px #afafaf;
+	margin: 8px 2px;
+	color: #aa1a64;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.ddl
+{
+	border: solid 1px #1d7e96;
+	font-size: 13px;
+	font-weight: normal;
+	color: #033f5d;
+	text-align: left;
+	height: 32px;
+	padding: 7px 5px;
+	outline-style: none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+input[type="text"]
+{
+	border: solid 1px #1d7e96;
+	font-size: 13px;
+	font-weight: normal;
+	color: #033f5d;
+	text-align: left;
+	height: 22px;
+	outline-style: none;
+}
+
+
+.clear
+{
+	clear: both;
+	height: 0px;
+	width: 0px;
+}
+
+
+.pageheader-pop
+{
+	height: 18px;
+	display: block;
+	background: #000;
+	font-weight: bold;
+	padding: 10px 5px;
+	color:#fff;
+	-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+
+
+
+
+.table-list-pop
+{
+	width: 100%;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	border-collapse: collapse;
+	margin:15px 0px;
+}
+
+
+	.table-list-pop td
+	{
+		text-align: left;
+		padding: 10px;
+		text-decoration: none;
+		border-bottom: 1px solid #ededed;
+	}
+
+		.table-list-pop td:nth-child(odd)
+		{
+			color: #000000;
+			background-color: #f7f5f5;
+			text-align: left;
+			padding: 5px;
+			text-decoration: none;
+			border-bottom: 1px solid #ededed;
+			font-weight: bold;
+			width:20%;
+		}
+
+		.table-list-pop td:nth-child(even)
+		{
+			background-color: #ffffff;
+			text-align: left;
+			padding: 5px;
+			text-decoration: none;		
+			width:30%;
+		}
+		.table-list-pop td:last-child
+		{
+			border-right: 1px solid #ededed;
+		}
+
+.dv-controls-pop { text-align: right; margin: 10px 15px; }

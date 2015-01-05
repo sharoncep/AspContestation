@@ -1,0 +1,90 @@
+body {
+	margin-left: 0px;	margin-top: 0px; margin-right: 0px;	margin-bottom: 0px;
+	background: url(../images/bgpage_login.jpg) no-repeat center 0px #e2e2e2;
+}
+.wrapper
+{
+	width:960px;	margin:0 auto;	position:relative;	padding:0; height:500px;
+}
+
+.top-bar-wrapper
+{
+	position:relative;	width:100%;	height:90px;
+}
+
+.sitelogo
+{
+	background: url(../images/sitelogo.png) no-repeat 0px 0px;	width:253px;	height:55px;	padding:0;
+	position:absolute; top:20px; left:0px;
+}
+
+.menu { float:right; background:#303030; border:1px solid #404040; padding:10 10; margin:20px 0 0 0; width:285px;}
+.menu ul {  padding:0; margin:0; list-style:none; border:0;}
+.menu ul li { float:left; margin:0; padding:1px 1px 0 0; border:0;}
+.menu ul li a { float:left; margin:0; padding:13px 0; color:#fff; font:normal 12px Arial, Helvetica, sans-serif; text-decoration:none; outline-style:none}
+.menu ul li a span { padding:13px; background:none;}
+.menu ul li a:hover { color:#fff; background:url(../images/r_menu.gif) no-repeat right;}
+.menu ul li a:hover span {color:#fff; background:url(../images/l_menu.gif) no-repeat left;}
+.menu ul li a.active { color:#fff;background:url(../images/r_menu.gif) no-repeat right;}
+.menu ul li a.active span { color:#fff; background:url(../images/l_menu.gif) no-repeat left;}
+
+.div-login { position: absolute; width:275px; height:236px; background:url(../images/bg_login_area.png) no-repeat 0 0; padding:50px 0px 0px 30px ; right:0px; top:125px}
+.div-login ul{ padding:0; margin:0; list-style:none;}
+.div-login ul li{ float:none; font:normal 12px Arial, Helvetica, sans-serif; text-decoration:none; color:#fff; padding:2px;}
+
+input[type="text"],input[type="password"]
+{
+	background:url(../images/bg_login_textbox.png) no-repeat 0 0; width:231px;
+	height:16px;font: normal 12px Arial, Helvetica, sans-serif; text-decoration:none; color:#23668a; border:none;
+	padding:10px 8px;
+	margin:0;
+}
+
+.buttons
+{
+	border: solid 0px #89d5fe;
+	font-family:"Tahoma";
+	font-size:11px;
+	font-weight:bold;
+	color:#000000;
+	width:68px;
+	height:26px;
+	cursor:pointer;
+	background:url(../images/bg_button_login.png) no-repeat 0px 0px;
+	float:right;
+	margin-top:10px;
+	margin-right:30px;
+	outline-style:none;
+}
+.buttons:hover
+{
+	text-decoration:underline;
+}
+
+.dv_footer
+{
+	height:32px;
+	padding:10px 20px 0px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#8e989a;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:right;
+	margin-top:5px;
+	display:block;
+	margin: 0 auto;
+}
+
+
+.error
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffb017;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: left;
+	display: inline-block;
+	margin: 10px 2px 0px 5px;
+}

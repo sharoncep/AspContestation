@@ -1,0 +1,9 @@
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\BLL.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\BLL.pdb
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\DAL.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\Entities.dll
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\DAL.pdb
+D:\working folder\Contestation_New\Contestation\BLL\bin\Release\Entities.pdb
+D:\working folder\Contestation_New\Contestation\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation_New\Contestation\BLL\obj\Release\BLL.dll
+D:\working folder\Contestation_New\Contestation\BLL\obj\Release\BLL.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Contestation" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\working\ folder\\Contestation_New\\Contestation\\Contestation\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\working\ folder\\Contestation_New\\Contestation\\Contestation\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-Contestation-20140305112414;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-Contestation-20140305112414.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\working\ folder\\Contestation_New\\Contestation\\Contestation\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="sqlConnFreedom-Web.config Connection String" description="" value="Data Source=LIMOS;Initial Catalog=Dev_Contestation_Freedom;Persist Security Info=True;User ID=sa;Password=123qweAadmin" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\working\ folder\\Contestation_New\\Contestation\\Contestation\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlConnFreedom']/@connectionString" />
+  </parameter>
+  <parameter name="sqlConnOptimum-Web.config Connection String" description="" value="Data Source=LIMOS;Initial Catalog=Dev_Contestation_Optimum;Persist Security Info=True;User ID=sa;Password=123qweAadmin" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\working\ folder\\Contestation_New\\Contestation\\Contestation\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sqlConnOptimum']/@connectionString" />
+  </parameter>
+</parameters>

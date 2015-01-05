@@ -1,0 +1,19 @@
+D:\working folder\Contestation\DAL\bin\Debug\DAL.dll
+D:\working folder\Contestation\DAL\bin\Debug\DAL.pdb
+D:\working folder\Contestation\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation\DAL\obj\Debug\DAL.dll
+D:\working folder\Contestation\DAL\obj\Debug\DAL.pdb
+D:\working folder\Contestation_New\Contestation\DAL\bin\Debug\DAL.dll
+D:\working folder\Contestation_New\Contestation\DAL\bin\Debug\DAL.pdb
+D:\working folder\Contestation_New\Contestation\DAL\bin\Debug\Entities.dll
+D:\working folder\Contestation_New\Contestation\DAL\bin\Debug\Entities.pdb
+D:\working folder\Contestation_New\Contestation\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\working folder\Contestation_New\Contestation\DAL\obj\Debug\DAL.dll
+D:\working folder\Contestation_New\Contestation\DAL\obj\Debug\DAL.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\bin\Debug\DAL.dll
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\bin\Debug\DAL.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\bin\Debug\Entities.dll
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\bin\Debug\Entities.pdb
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\obj\Debug\DAL.dll
+D:\Sharon\Personal\Contestation_New\Contestation\DAL\obj\Debug\DAL.pdb
